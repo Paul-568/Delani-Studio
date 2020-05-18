@@ -1,0 +1,49 @@
+@import url('https://fonts.google.com/specimen/PT+Serif?sidebar.open&selection.family=PT+Serif');
+
+#head{
+    background-image: url('../images/h_img.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;    
+    text-align: center;
+    padding-top: 230px;
+    text-transform: uppercase;
+}
+#logo{
+    padding-bottom: 50px;
+}
+#click{
+    padding-top: 200px;
+    padding-bottom: 30px;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#first {
+    padding-top: 14%;
+    margin-bottom: 9%;
+}
+.logo {
+    padding-top: 9%;
+    margin-bottom: 3%;
+}
+.mouse {
+    margin-top: 20%;
+    padding: 35px 0;
+    margin-bottom: 20%;
+}
+
+#about {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.fontsize {
+    font-size: cal(1vh + 1vw + .5vmin);
+}
+
+
+h6 {
+    height: 1vh;
+}
