@@ -44,7 +44,7 @@ Site maybe unresponsive some times
 
 ### Contact Information
 
-If any querries reach me at ptuleto@gmail.com
+If you want to collaborate reach me at ptuleto@gmail.com
 
 ### License
 
