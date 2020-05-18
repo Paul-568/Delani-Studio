@@ -47,3 +47,42 @@
 h6 {
     height: 1vh;
 }
+#about,
+#service,
+#pple,
+.whatWeDo,
+#contact,
+.footer p {
+    font-family: 'PT Serif', cursive;
+}
+.col-md-12 {
+    width: 100%;
+    color: #fff;
+    font-family: 'Akronim', cursive;
+    font-size: calc(1vw + 1vh + .5vmin);
+    font-size: 1.1em;
+}
+h1 {
+    font-family: 'PT Serif', cursive;
+}
+.whatWeDo {
+    margin-bottom: 4%;
+}
+.whatWeDo image:hover {
+    cursor: pointer,
+}
+.what {
+    margin-bottom: 30px;
+}
+.hideMe {
+    display: none;
+}
+#service {
+    background-image: url('../images/s_image.jpg');
+    color: #fff;
+    margin-bottom: 50px;
+    background-position: center;
+    padding-top: 120px;
+    padding-bottom: 80px;
+    background-size: cover;
+}
