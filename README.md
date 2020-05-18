@@ -22,15 +22,13 @@ JQuery
 
 ## BDD
 
-Behaviour              Input                                             Output
+Under what we do, clicking on the image will toggle a paragraph explaining about the service.
 
-Enter your name        Paul Tuleto
+Hovering over each image will show a white box with the name of the image.
 
-Enter your email       ptuleto@gmail.com
+Upon entering your details and message in the contact-us form, the data will be sent to mailchimp and you will receive a confirmation message thanking you for contacting them.
 
-Enter your message    Hello  your services are exemplary
-
-Submit                                                                       “pop-up” Dear Paul Tuleto,we have received your message and we will get in touch. Thank you for contacting us.
+In case, submit form is entered without any values in the form, an alert message will pop-up telling you to put in valid information.​
 
 ### Setup Instructions
 
